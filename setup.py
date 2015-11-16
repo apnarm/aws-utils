@@ -15,7 +15,7 @@ def parse_requirements(filename):
 
 
 setup(
-    name="aws-utils",
+    name="aws_utils",
     description="AWS Utilities",
     author="APN Online",
     author_email="dev.admin@apnonline.com.au",
